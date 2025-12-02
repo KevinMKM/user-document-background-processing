@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "UserDocumentBackgroundProcessing.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:8751;http://localhost:8752"
+    }
+  }
+}

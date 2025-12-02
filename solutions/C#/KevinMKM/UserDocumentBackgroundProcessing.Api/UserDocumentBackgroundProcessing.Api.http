@@ -1,6 +1,0 @@
-@UserDocumentBackgroundProcessing.Api_HostAddress = http://localhost:5005
-
-GET {{UserDocumentBackgroundProcessing.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
